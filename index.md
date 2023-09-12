@@ -2,6 +2,10 @@
 
 _2023 Fall, Tsinghua University._
 
+### News & Announcements
+
+- See the [QR code](./WeChatQR.png) and join the WeChat group.
+
 ### Course Syllabus
 
 _Click [here](./syllabus.pdf) to download a pdf version of syllabus._
@@ -10,8 +14,8 @@ _Click [here](./syllabus.pdf) to download a pdf version of syllabus._
 
 The course is a continuation of _Algebra and Number Theory 1_, and it covers **Class Field Theory**. It plays a fundamental role in many branches of modern Number Theory, and thus it is one of the standard topics for Ph.D. students in the field. The course teaches the statements and proofs of Local and Global Class Field Theories. Along the way, we also discuss group cohomology and other related topics. Students will learn the course materials by attending lectures by the instructor and doing homework on a regular basis.
 
-- **Instructor:** Koji Shimizu (shimizu@tsinghua.edu.cn, Shuangqing Complex Building B621).
-- **Teaching Asistant**: Wenhan Dai (dwh23@mails.tsinghua.edu.cn).
+- **Instructor:** Koji SHIMIZU (shimizu@tsinghua.edu.cn, Shuangqing Complex Building B621).
+- **Teaching Asistant**: Wenhan DAI (dwh23@mails.tsinghua.edu.cn).
 - **Time:** 8-9:35 am on Wednesdays; 1:30-3:05 pm on Fridays.
 - **Venue:** 6B204 in No. 6 Teaching Building.
 - **Prerequisites:** Algebra and Number Theory 1.
@@ -27,7 +31,7 @@ The instructor will comply with the _Ten Guidelines of Professional Conduct for 
 
 #### About Office Hours
 
-- **Instructor's Office Hours:** 2-3 pm on Thursdays in Shuangqing Complex Building B621 (tentative).
+- **Instructor's Office Hours:** 2-3 p.m. on Thursdays in Shuangqing Complex Building B621 (tentative).
 - **TA's Office Hours:** TBA. There will be extra office hours before the two homework submission deadlines.
 
 ### Notes
